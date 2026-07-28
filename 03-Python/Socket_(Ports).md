@@ -12,4 +12,4 @@ if result == 0:
 s.close()
 else:
     print("Port 80 is closed")
-subprocess – Running System Commands
+
